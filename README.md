@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Prince-Singh-Dev/Prince-Singh-Dev/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Prince Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
