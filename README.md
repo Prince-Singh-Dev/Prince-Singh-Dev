@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-singh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prince-singh-dev" /> </p>
 
-- 🌱 I’m Interested in **interested in Software Development , Data Structures and Algorithms , Artificial Intelligence and Machine Learning**
+- 🌱 I’m Interested in **Software Development , Data Structures and Algorithms , Artificial Intelligence and Machine Learning**
 
 - 📹 I am video editor on [https://www.instagram.com/prince_._rajput_._](https://www.instagram.com/prince_._rajput_._)
 
