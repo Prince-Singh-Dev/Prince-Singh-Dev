@@ -10,7 +10,7 @@
 
 - 📹 I am video editor on [https://www.instagram.com/prince_._rajput_._](https://www.instagram.com/prince_._rajput_._)
 
-- 💬 I'm actively working on **actively working on building my skills in programming languages such as Python , Java , C++ ...**
+- 💬 I'm actively working on **building my skills in programming languages such as Python , Java , C++ ...**
 
 - 📫 How to reach me **princesingh6173@gmail.com**
 
