@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-singh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="prince-singh-dev" /> </p>
 
-- 🌱 I’m Interested in **Software Development , Data Structures and Algorithms , Artificial Intelligence and Machine Learning**
+- 🌱 I’m Interested in **Software Development , Data Structures and Algorithms , Full Stack Web Development and Artificial Intelligence**
 
 - 📹 I am video editor on [https://www.instagram.com/prince_._rajput_._](https://www.instagram.com/prince_._rajput_._)
 
-- 💬 I'm actively working on **building my skills in programming languages such as Python , Java , C++ ...**
+- 💬 I'm actively working on **building my skills in programming languages such as Python , JavaScript , C ...**
 
 - 📫 How to reach me **princesingh6173@gmail.com**
 
