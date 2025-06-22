@@ -30,7 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-singh-dev&show_icons=true&locale=en" alt="prince-singh-dev" /></p>
 
-[<p><img align="center" src="https://streak-stats.demolab.com/?user=prince-singh-dev" alt="streak" /></p>](https://git-hub-streak-stats.vercel.app/?user=prince-singh-dev
-)
+<img src="https://streak-stats.demolab.com/?user=prince-singh-dev&theme=tokyonight&hide_border=true" />
 
 
