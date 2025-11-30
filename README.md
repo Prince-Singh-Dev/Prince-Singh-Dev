@@ -1,67 +1,120 @@
-![logo](https://github.com/Prince-Singh-Dev/Prince-Singh-Dev/blob/main/banner.gif)
+![banner](https://github.com/Prince-Singh-Dev/Prince-Singh-Dev/blob/main/banner.gif)
 
-<h1 align="center">Hey 👋, I'm Prince Singh</h1>
-<h3 align="center">A passionate Software Engineer from India 🚀</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#00eaff">Prince Singh</span></h1>
+<h3 align="center">MERN Full-Stack Developer & Passionate Software Engineer 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prince-singh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img align="right" alt="coding" width="380" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 ---
 
-- 🌱 I’m exploring **Software Development**, **Full Stack Web Development**, **Data Structures & Algorithms**, and **Artificial Intelligence**.
-- 💻 Currently learning: **Python**, **JavaScript**, **C**, and **more!**
-- 📹 I also love **video editing** – check out my content on [Instagram](https://www.instagram.com/prince_._rajput_._)
-- 📫 Reach out to me at: **princesingh6173@gmail.com**
-- 🎮 Fun fact: I'm a **hardcore gamer** and proud of it! 😎
+## 🌟 About Me  
+- 🔭 Focused on **MERN Full Stack Development**, **Software Engineering**, and **AI**
+- 🌱 Currently learning: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Python`, `C`, `C++`
+- 🎥 Content creator & video editor → [Instagram](https://www.instagram.com/prince_._rajput_._)
+- 💡 I love building ideas into real projects  
+- 🎮 Hardcore gamer by passion  
+- 📬 Reach me: **princesingh6173@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🔗 Connect With Me
+
 <p align="left">
   <a href="https://twitter.com/singh_prin35470" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
   </a>
   <a href="https://fb.com/rajputprince3107" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
   </a>
   <a href="https://instagram.com/prince_._rajput_._" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+# 🧩 MERN Full-Stack Developer Skills
+
+### 🌐 Frontend Development
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-singh-dev&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+  <img src="https://skillicons.dev/icons?i=express" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-singh-dev&show_icons=true&locale=en" alt="GitHub Stats" />
+---
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince-singh-dev&" alt="GitHub Streak" />
+---
+
+### 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="45"/>
 </p>
+
+---
+
+### ☁ Deployment Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="45"/>
+  <img src="https://skillicons.dev/icons?i=heroku" width="45"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+</p>
+
+---
+
+### 📦 Additional Skills
+- REST APIs  
+- CRUD Operations  
+- JWT Authentication  
+- MVC Architecture  
+- State Management (Redux / Context API)  
+- Responsive UI/UX  
+- API Integration  
+- Problem Solving (DSA)  
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince-singh-dev&show_icons=true&theme=tokyonight&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-singh-dev&layout=compact&theme=tokyonight&hide_border=true" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince-singh-dev&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+---
+
+## 🌟 Profile Views  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prince-singh-dev&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h2 align="center">🔥 Thanks for visiting — Keep Coding, Keep Growing! 🔥</h2>
