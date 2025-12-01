@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="45"/>
 </p>
 
-### ⚙ Backend (Learning Step-by-Step)
+### ⚙ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45"/>
 </p>
