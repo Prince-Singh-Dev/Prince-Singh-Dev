@@ -69,8 +69,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Singh-Dev&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prince-Singh-Dev&theme=tokyonight" />
 </p>
+
 
 ---
 
