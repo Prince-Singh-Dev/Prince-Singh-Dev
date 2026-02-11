@@ -1,87 +1,77 @@
-<!-- Hero Banner -->
+<!-- ======================= HERO SECTION ======================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prince-Singh-Dev/Prince-Singh-Dev/main/banner.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Prince-Singh-Dev/Prince-Singh-Dev/main/banner.gif" width="100%" />
 </p>
 
-<h1 align="center">
-  Hi, I'm Prince Singh 👋
-</h1>
-
+<h1 align="center">Hi, I'm Prince Singh 👋</h1>
 <h3 align="center">
   Software Engineer in Progress • Full-Stack (MERN) • Java & Backend Systems
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+  <em>Building scalable systems. Writing clean code. Solving real-world problems.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Prince-Singh-Dev?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/Prince-Singh-Dev?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Prince-Singh-Dev?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/Prince-Singh-Dev?label=Stars&style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20Everyday-purple?style=for-the-badge"/>
+</p>
 
-## 🧑‍💻 About Me
-
-I’m a **Computer Science student & aspiring Software Engineer** with a strong focus on  
-**backend systems, scalable architectures, and full-stack development**.
-
-I enjoy breaking down complex systems, understanding how things work under the hood,  
-and building projects that actually solve real problems.
-
-- 🚀 Learning **Full Stack Web Development (MERN Stack)**
-- ☕ Deep diving into **Java, OOP & Data Structures**
-- 🧠 Solving problems on **LeetCode & coding platforms**
-- 🌐 Exploring **APIs, Databases & Backend Design**
-- 🎥 Interested in **tech content & video editing**
-- 📩 Reach me: **princesingh6173@gmail.com**
-- 🎮 Fun fact: Gamer with a developer mindset 😄
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
+I’m a **Computer Science student & aspiring Software Engineer** passionate about  
+**backend engineering, system design, and full-stack development**.
+
+I love understanding how systems work under the hood — from memory and APIs  
+to databases and distributed services.
+
+### What I Do
+- 🚀 Full Stack Development using **MERN Stack**
+- ☕ Strong focus on **Java, OOP, and DSA**
+- 🧠 Daily problem solving on **LeetCode & Codeforces**
+- 🌐 Designing **REST APIs & backend systems**
+- 📦 Working with **databases and data modeling**
+- 🎥 Tech content + video editing for learning
+- 🎮 Gamer with a developer brain
+
+📩 **Contact:** princesingh6173@gmail.com  
+
+---
+
+## 🧰 Tech Arsenal
+
+### Core Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" height="48"/>
 </p>
 
-### Frontend
+### Frontend Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="48"/>
 </p>
 
-### Backend
+### Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="48"/>
 </p>
 
-### Tools & Platforms
+### Developer Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,netlify,vercel" height="48"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://twitter.com/singh_prin35470" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
-  </a>
-  <a href="https://instagram.com/prince_._rajput_._" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-  </a>
-  <a href="https://fb.com/rajputprince3107" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="48"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Insights
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Prince-Singh-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -97,32 +87,52 @@ and building projects that actually solve real problems.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Mission
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
 </p>
 
-- Mastering **Java + DSA**
-- Building **real-world MERN projects**
-- Learning **backend system design**
-- Preparing for **internships & SDE roles**
+- Master **Java + Data Structures**
+- Build **production-level MERN projects**
+- Learn **System Design & Microservices**
+- Crack **Internships & SDE roles**
+- Maintain a **daily GitHub streak**
 
 ---
 
-## ✨ Personal Philosophy
+## 🧠 Engineering Mindset
 
-> *“Consistency beats motivation.  
-> I don’t wait to feel inspired — I show up and write code every day.”*
+> *“First make it work.  
+> Then make it right.  
+> Then make it fast.”*  
+> — *Kent Beck*
 
 ---
 
-## 🌟 Support My Journey
+## 🌍 Connect With Me
 
-If you find my work useful or interesting:
+<p align="center">
+  <a href="https://twitter.com/singh_prin35470" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
+  </a>
+  <a href="https://instagram.com/prince_._rajput_._" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+  </a>
+  <a href="https://fb.com/rajputprince3107" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="48"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Support My Work
+
+If you like what I build:
 
 - ⭐ Star my repositories  
-- 🤝 Connect with me  
-- 📢 Share with others  
+- 🍴 Fork and contribute  
+- 💬 Give feedback  
+- 🔗 Share with others  
 
-It genuinely motivates me to keep learning and building.
+Your support pushes me to build bigger and better systems 🚀
