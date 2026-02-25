@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Prince-Singh-Dev?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Prince-Singh-Dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/stars/Prince-Singh-Dev?label=Stars&style=for-the-badge&color=yellow"/>
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Learning%20Everyday-purple?style=for-the-badge"/>
