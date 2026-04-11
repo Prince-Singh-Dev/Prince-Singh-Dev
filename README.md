@@ -86,6 +86,14 @@ to databases and distributed services.
   />
 </p>
 
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h3 align="center">Contribution Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Singh-Dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Prince%20Singh%20Contribution%20Journey&bg_color=0d1117&line=00F7FF&point=8A2BE2"/>
+</p>
+
 ---
 
 ## 🎯 Current Mission
