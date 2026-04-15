@@ -129,7 +129,7 @@ to databases and distributed services.
     <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>
   <a href="https://fb.com/rajputprince3107" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="48"/>
   </a>
 </p>
 
