@@ -125,7 +125,7 @@ to databases and distributed services.
   <a href="https://twitter.com/singh_prin35470" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
   </a>
-  <a href="https://instagram.com/prince_._rajput_._" target="_blank">
+  <a href="https://instagram.com/princerajput_._pvt" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
   </a>
   <a href="https://fb.com/rajputprince3107" target="_blank">
