@@ -36,19 +36,19 @@ I love understanding how systems work under the hood — from memory and APIs
 to databases and distributed services.
 
 ### What I Do
-- 🚀 Full Stack Development using **MERN Stack**
-- ☕ Strong focus on **Java, OOP, and DSA**
-- 🧠 Daily problem solving on **LeetCode & Codeforces**
-- 🌐 Designing **REST APIs & backend systems**
-- 📦 Working with **databases and data modeling**
-- 🎥 Tech content + video editing for learning
-- 🎮 Gamer with a developer brain
+-  Full Stack Development using **MERN Stack**
+-  Strong focus on **Java, OOP, and DSA**
+-  Daily problem solving on **LeetCode & Codeforces**
+-  Designing **REST APIs & backend systems**
+-  Working with **databases and data modeling**
+-  Tech content + video editing for learning
+-  Gamer with a developer brain
 
 📩 **Contact:** princesingh6173@gmail.com  
 
 ---
 
-## 🧰 Tech Arsenal
+##  Tech Arsenal
 
 ### Core Languages
 <p>
@@ -72,7 +72,7 @@ to databases and distributed services.
 
 ---
 
-## 📊 GitHub Performance
+## GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Prince-Singh-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -96,7 +96,7 @@ to databases and distributed services.
 
 ---
 
-## 🎯 Current Mission
+##  Current Mission
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
@@ -110,7 +110,7 @@ to databases and distributed services.
 
 ---
 
-## 🧠 Engineering Mindset
+##  Engineering Mindset
 
 > *“First make it work.  
 > Then make it right.  
@@ -119,7 +119,7 @@ to databases and distributed services.
 
 ---
 
-## 🌍 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://twitter.com/singh_prin35470" target="_blank">
