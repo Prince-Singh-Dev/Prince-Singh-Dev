@@ -86,6 +86,8 @@ to databases and distributed services.
   />
 </p>
 
+
+
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 <h3 align="center">Contribution Activity</h3>
@@ -93,6 +95,14 @@ to databases and distributed services.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Singh-Dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Prince%20Singh%20Contribution%20Journey&bg_color=0d1117&line=00F7FF&point=8A2BE2"/>
 </p>
+
+<div align="center">
+
+##  Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 ---
 
@@ -122,15 +132,31 @@ to databases and distributed services.
 ##  Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/singh_prin35470" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
-  </a>
-  <a href="https://instagram.com/princerajput_._pvt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
-  </a>
-  <a href="https://fb.com/rajputprince3107" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="48"/>
-  </a>
+
+<a href="mailto:princesingh6173@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/Prince-Singh-Dev">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prince-singh-dev">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://twitter.com/singh_prin35470">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+
+<a href="https://instagram.com/princerajput_._pvt">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+<a href="https://fb.com/rajputprince3107">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50"/>
+</a>
+
 </p>
 
 ---
@@ -145,3 +171,19 @@ If you like what I build:
 - 🔗 Share with others  
 
 Your support pushes me to build bigger and better systems 🚀
+
+<div align="center">
+
+```text
+  ██████╗ ██████╗ ██╗███╗   ██╗ ██████╗███████╗
+  ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
+██████╔╝██████╔╝██║██╔██╗ ██║██║     █████╗
+██╔═══╝ ██╔══██╗██║██║╚██╗██║██║     ██╔══╝
+  ██║     ██║  ██║██║██║ ╚████║╚██████╗███████╗
+  ╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+```
+
+### Engineering isn't just writing code. It's designing the future, one commit at a time.
+
+**Thanks for stopping by!**
+
