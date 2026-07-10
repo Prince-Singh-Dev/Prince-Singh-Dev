@@ -75,28 +75,59 @@ to databases and distributed services.
 ## GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Prince-Singh-Dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Singh-Dev&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Prince-Singh-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Singh-Dev&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
 </p>
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prince-Singh-Dev&layout=compact&theme=tokyonight&hide_border=true"
-    width="45%"
-  />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prince-Singh-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7" width="45%"/>
 </p>
-
-
 
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
 
 <h3 align="center">Contribution Activity</h3>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Singh-Dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Prince%20Singh%20Contribution%20Journey&bg_color=0d1117&line=00F7FF&point=8A2BE2"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Singh-Dev&theme=github-compact&hide_border=true&bg_color=0d1117&color=2F81F7&line=2F81F7&point=ffffff" width="90%"/>
 </p>
+<br/>
 
-<div align="center">
+<!-- ======================= FEATURED PROJECTS ======================= -->
+Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/80eed3d8-f517-4854-ae4d-8a2b33eb48a3" width="100%"><br/>
+      <h3>JobSphere</h3>
+      <p>A full-stack job portal connecting job seekers and recruiters — supports resume tracking, application status, job filtering, and a dedicated recruiter dashboard for posting and             managing jobs.
+      </p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind CSS</code> <code>Clerk Auth</code> <code>Cloudinary</code>
+      </p>
+      <p>
+        <a href="https://jobsphere-prince.vercel.app/">Live Site</a> ·
+        <a href="https://job-sphere-omega.vercel.app/">API</a> ·
+        <a href="GITHUB-REPO-URL-HERE">Source</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github.com/user-attachments/assets/98a13c0f-84ce-4ab9-9281-6a0ee232b75c" width="100%"><br/>
+      <h3>ShopGenie</h3>
+      <p>An e-commerce platform with product browsing, cart and checkout, order tracking, an admin dashboard for product management, and AI-powered voice navigation for hands-free                  shopping.
+      </p>
+      <p>
+        <code>React</code> <code>Redux Toolkit</code> <code>Node.js</code> <code>Express</code> <code>MongoDB Atlas</code> <code>Firebase Auth</code> <code>Web Speech API</code>
+      </p>
+      <p>
+        <a href="https://shopgenie-frontend.onrender.com/">Live Site</a> ·
+        <a href="https://youtu.be/3SB1atOVclk?si=FDxcwwvqOO1DFaPb">Demo Video</a> ·
+        <a href="GITHUB-REPO-URL-HERE">Source</a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+
+<!-- ======================= GITHUB STATS ======================= -->
 
 ##  Contribution Snake
 
