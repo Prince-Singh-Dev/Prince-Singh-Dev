@@ -106,7 +106,7 @@ Featured Projects
       <p>
         <a href="https://jobsphere-prince.vercel.app/">Live Site</a> ·
         <a href="https://job-sphere-omega.vercel.app/">API</a> ·
-        <a href="GITHUB-REPO-URL-HERE">Source</a>
+        <a href="https://github.com/Prince-Singh-Dev/JobSphere">Source</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -120,7 +120,7 @@ Featured Projects
       <p>
         <a href="https://shopgenie-frontend.onrender.com/">Live Site</a> ·
         <a href="https://youtu.be/3SB1atOVclk?si=FDxcwwvqOO1DFaPb">Demo Video</a> ·
-        <a href="GITHUB-REPO-URL-HERE">Source</a>
+        <a href="https://github.com/Prince-Singh-Dev/ShopGenie">Source</a>
       </p>
     </td>
   </tr>
