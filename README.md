@@ -76,7 +76,7 @@ to databases and distributed services.
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Prince-Singh-Dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Singh-Dev&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Prince-Singh-Dev" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prince-Singh-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7" width="45%"/>
