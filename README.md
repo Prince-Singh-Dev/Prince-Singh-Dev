@@ -196,10 +196,10 @@ Featured Projects
 
 If you like what I build:
 
-- ⭐ Star my repositories  
-- 🍴 Fork and contribute  
-- 💬 Give feedback  
-- 🔗 Share with others  
+-  Star my repositories  
+-  Fork and contribute  
+-  Give feedback  
+-  Share with others  
 
 Your support pushes me to build bigger and better systems 🚀
 
