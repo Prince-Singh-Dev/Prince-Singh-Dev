@@ -82,14 +82,6 @@ to databases and distributed services.
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Prince-Singh-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2F81F7" width="45%"/>
 </p>
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-<h3 align="center">Contribution Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince-Singh-Dev&theme=github-compact&hide_border=true&bg_color=0d1117&color=2F81F7&line=2F81F7&point=ffffff" width="90%"/>
-</p>
-<br/>
-
 <!-- ======================= FEATURED PROJECTS ======================= -->
 Featured Projects
 
